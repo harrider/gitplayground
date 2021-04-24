@@ -1,0 +1,11 @@
+main {
+    background-color: red;
+}
+
+#times.best {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#times.worst {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
